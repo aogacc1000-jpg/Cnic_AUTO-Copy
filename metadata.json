@@ -1,0 +1,6 @@
+{
+  "name": "CNIC Copy Maker",
+  "description": "Offline Front + Back CNIC to A4 PDF tool and Windows desktop PySide6 source package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
